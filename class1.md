@@ -1,6 +1,6 @@
 # class1
 
-### notes for git
+### Notes for git
 
 `git status`-this displays all current changes to git.
 
@@ -12,7 +12,9 @@
 
 `git push origin master` - not usually how you want to do this
 
-### Command Line notes
+`git pull origin master` - pulls master from git to cp
+
+### Command Line Notes
 
 `ls` - lists dir
 
@@ -43,3 +45,16 @@
 `atom .` - open atom from current dir
 
 `grep` - searcher
+
+`node server.js` - run server in directory
+
+
+### Need to be Updated
+
+`heroku create`
+
+`git push heroku master`
+
+`git init`
+
+`git remote -v`
