@@ -16,10 +16,30 @@
 
 `ls` - lists dir
 
+`ls -l` - long listing
+
+`ls -a` - listing including hidden files
+
 `mkdir` - makes new dir/folder
 
 `touch` - makes a file
 
+`pwd` - print working dir
+
 `cd` - current directory
 
 `cd ..` - moves up one directory
+
+`cd -` - previous directory
+
+`cd /` - root of directory
+
+`cat` - concatinate on screen
+
+`ctrl+c` - end whats currently running
+
+`history` - last commands
+
+`atom .` - open atom from current dir
+
+`grep` - searcher
