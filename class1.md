@@ -14,6 +14,10 @@
 
 `git pull origin master` - pulls master from git to cp
 
+`git checkout -b NAME` create new branch
+
+`git checkout NAME` - switch to branch
+
 ### Command Line Notes
 
 `ls` - lists dir
@@ -58,3 +62,9 @@
 `git init`
 
 `git remote -v`
+
+### Set up repo
+`git init`
+`npm install`
+`npm init`
+`git clone url`
