@@ -68,3 +68,6 @@
 `npm install`
 `npm init`
 `git clone url`
+`npm install jquery` - require in javascript file
+`npm install nodemon`- for devstart
+`npm run devstart`
