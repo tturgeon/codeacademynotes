@@ -52,6 +52,8 @@
 
 `node server.js` - run server in directory
 
+`git reset --hard origin/master`-- USE CAREFULLY
+
 
 ### Need to be Updated
 
